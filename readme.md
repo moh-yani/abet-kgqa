@@ -3,6 +3,7 @@
 We now have a paper you can [cite](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00631-1) for the abet-kgqa.
 
 ---
+
 @article{YaniKB22,
   author    = {Mohammad Yani and
                Adila Alfa Krisnadhi and
@@ -20,4 +21,5 @@ We now have a paper you can [cite](https://journalofbigdata.springeropen.com/art
   biburl    = {https://dblp.org/rec/journals/jbd/YaniKB22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+
 ---
